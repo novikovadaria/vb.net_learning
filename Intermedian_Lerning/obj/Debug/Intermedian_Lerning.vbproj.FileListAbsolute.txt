@@ -1,0 +1,13 @@
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\bin\Debug\Intermedian_Lerning.exe.config
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\bin\Debug\Intermedian_Lerning.exe
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\bin\Debug\Intermedian_Lerning.pdb
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\bin\Debug\Intermedian_Lerning.xml
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\obj\Debug\Intermedian_Lerning.vbproj.AssemblyReference.cache
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\obj\Debug\Intermedian_Lerning.vbproj.SuggestedBindingRedirects.cache
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\obj\Debug\Intermedian_Lerning.Form1.resources
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\obj\Debug\Intermedian_Lerning.Resources.resources
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\obj\Debug\Intermedian_Lerning.vbproj.GenerateResource.cache
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\obj\Debug\Intermedian_Lerning.vbproj.CoreCompileInputs.cache
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\obj\Debug\Intermedian_Lerning.exe
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\obj\Debug\Intermedian_Lerning.xml
+C:\Users\79384\Desktop\vb learning\Intermedian_Lerning\obj\Debug\Intermedian_Lerning.pdb
