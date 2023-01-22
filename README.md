@@ -1,2 +1,2 @@
 # Изучение озов vb.net и WinForms
-# Learning the basics vb.net and WinForms
+# Learning the basics of vb.net and WinForms
